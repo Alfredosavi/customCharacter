@@ -6,6 +6,7 @@ Criador de Símbolos Customizados para Display LCD 16x2 do Arduino! Este projeto
 
 
 ## :dart: Funcionalidades
+- **Disponibilidade**: A aplicação está disponível via [GitHub Pages](https://alfredosavi.github.io/customCharacter/).
 - **Matriz Interativa**: Grade 5x8 clicável para projetar símbolos personalizados.
 - **Saída em Tempo Real**: Exibe o array de bytes gerado para fácil cópia e colagem no seu código Arduino.
 - **Limpar e Inverter**: Botões para limpar a matriz ou inverter a seleção atual.
@@ -13,11 +14,12 @@ Criador de Símbolos Customizados para Display LCD 16x2 do Arduino! Este projeto
 
 
 ## 🔥 Uso
-1. Clique nas células na grade 5x8 para ativar ou desativar os bits.
-2. O array de bytes gerado será exibido na seção de saída.
-3. Use o botão **Limpar** para resetar a matriz.
-4. Use o botão **Inverter** para inverter a seleção atual.
-5. Copie o código gerado e cole no seu projeto Arduino.
+1. Entre no **GitHub Pages** do [projeto](https://alfredosavi.github.io/customCharacter/).
+2. Clique nas células na grade 5x8 para ativar ou desativar os bits.
+3. O array de bytes gerado será exibido na seção de saída.
+4. Use o botão **Limpar** para resetar a matriz.
+5. Use o botão **Inverter** para inverter a seleção atual.
+6. Copie o código gerado e cole no seu projeto Arduino.
     
 
 
