@@ -85,5 +85,10 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 
 
 
+## :small_blue_diamond: Créditos
+* [Template utilizado para simular o LCD](https://www.tinkercad.com/things/1AkGNapf7q8-escrever-uma-mensagem-no-display-16-x-2-lcd);
+* [ChatGPT](https://chatgpt.com/);
+
+
 ## :memo: Licença
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](../LICENSE) para mais detalhes.
